@@ -38,6 +38,9 @@ SpanVLA introduce a efficient action bridging with sparse KV-Cache and history i
 - **`2026/09`**: SpanVLA codebase.
 - **`2026/12`**: mReasoning dataset.
 
+## Acknowledgements
+We would like to express their gratitude to Qian Zhu, Haram Kim, and Baoshu Qi for their extensive efforts in data preparation and annotation of mReasoning dataset. Special thanks also go to Muhammad Taufik Tirtosudiro and Jiong Yang for their support in developing the evaluation pipeline. The authors also thank Nitin Kapania, Sourabh Vora, and Balajee Kannan for their strong support for the project.
+
 
 ## Citation
 If you find this repository useful for your research, please consider giving us a star 🌟 and citing our paper.
