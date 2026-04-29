@@ -34,8 +34,8 @@ SpanVLA introduce a efficient action bridging with sparse KV-Cache and history i
 - [Citation](#citation) -->
 
 ## Release Plan
-- **`2025/04`**: ✅ AutoVLA paper.
-- **`2026/09`**: AutoVLA codebase.
+- **`2025/04`**: ✅ SpanVLA paper.
+- **`2026/09`**: SpanVLA codebase.
 - **`2026/12`**: mReasoning dataset.
 
 
